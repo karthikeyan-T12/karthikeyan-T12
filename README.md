@@ -19,7 +19,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Karthikeyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyan-T12&show_icons=true&theme=radical)
+
+![Karthikeyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyan-T12&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-T12&layout=compact&theme=radical)
 
 ---
