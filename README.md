@@ -24,7 +24,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-T12&layout=compact&theme=merko)
 
 ---
+### github graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-T12&theme=github-compact)
 
+---
 ### 🙋‍♂️ About Me
 > “I’m an aspiring developer who enjoys building and learning every day.  
 > My long-term goal is to build something impactful — maybe my own startup!”
