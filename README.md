@@ -5,68 +5,33 @@
 
 <br/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00b4d8&center=true&vCenter=true&width=700&lines=🧠+Aspiring+Java+Developer;🛠️+Building+Real-World+Projects;🏆+Hackathon+Warrior+%7C+Team+Vyronex;💡+Future+Startup+Founder;💻+Slow+Laptop%2C+Faster+Passion+😄" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- Badges Row -->
-![Profile Views](https://komarev.com/ghpvc/?username=karthikeyan-T12&color=00b4d8&style=flat-square&label=👁️+Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/karthikeyan-T12?color=00b4d8&style=flat-square&label=Followers)
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-00b4d8?style=flat-square&logo=statuspage&logoColor=white)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
 
-## 🧑‍💻 `whoami`
+## 🗂️ My Dev Card
 
-```java
-public class Karthikeyan {
-
-    String name      = "Karthikeyan T";
-    String nickname  = "Karthi ⚡";
-    String location  = "Salem, Tamil Nadu 🇮🇳";
-    String team      = "Vyronex 🔥";
-
-    String[] roles   = {
-        "Aspiring Java Developer ☕",
-        "Full Stack Explorer 🌐",
-        "Startup Dreamer 🚀"
-    };
-
-    String[] currentlyLearning = {
-        "Java + Spring Boot",
-        "DSA & System Design",
-        "PostgreSQL & Maven"
-    };
-
-    String goal    = "Build something impactful 💡";
-    String funFact = "My laptop is slow… my passion? BLAZING FAST 🔥";
-    boolean openToWork = true;
-}
-```
+> 🧑‍💻 **Name** — Karthikeyan T
+>
+> ⚡ **Alias** — Karthi
+>
+> 📍 **Location** — Salem, Tamil Nadu 🇮🇳
+>
+> 🔥 **Team** — Vyronex
+>
+> ☕ **Stack** — Java · Spring Boot · PostgreSQL
+>
+> 🎯 **Mode** — `Learning` → `Building` → `Shipping`
+>
+> 💭 **Dream** — Launch my own startup someday
+>
+> 😄 **Fun Fact** — Laptop is slow. Passion is not.
 
 <br clear="right"/>
-
----
-
-## 🎯 Skill Radar
-
-<div align="center">
-
-### ☕ Core Languages
-
-| Skill | Level |
-|---|---|
-| ☕ Java | `████████░░` Intermediate |
-| 🐍 Python | `██████░░░░` Learning |
-| 🌐 HTML5 | `█████████░` Strong |
-| 🎨 CSS3 | `████████░░` Strong |
-
-</div>
 
 ---
 
@@ -79,12 +44,9 @@ public class Karthikeyan {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Frameworks & Build Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ### 🗄️ Databases
@@ -105,13 +67,9 @@ public class Karthikeyan {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-T12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-T12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-T12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&rank_icon=percentile&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-T12&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00b4d8&text_color=ffffff" width="38%"/>
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyan-T12&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=ffffff&dates=aaaaaa" width="65%"/>
 </div>
 
 ---
@@ -184,5 +142,9 @@ public class Karthikeyan {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1a1a2e,100:0d0d0d&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 *✨ Built with passion. Pushed with Git. Deployed with purpose. — Karthikeyan*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=karthikeyan-T12&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
