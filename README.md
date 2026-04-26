@@ -1,10 +1,17 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:00b4d8&height=220&section=header&text=Karthikeyan%20T%20👨‍💻&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=☕%20Java%20Dev%20in%20Progress%20%7C%20🚀%20Startup%20Dreamer%20%7C%20&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:00b4d8&height=220&section=header&text=Karthikeyan%20T%20👨‍💻&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=☕%20Java%20Dev%20in%20Progress%20%7C%20🚀%20Startup%20Dreamer%20%7C%20🔥%20Team%20Vyronex&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
 
 <br/>
 </div>
+
+---
+<h1 align="center">Hi 👋, I'm Karthikeyan</h1>
+<h3 align="center">Aspiring Java Developer | Building, Learning, Growing 🚀</h3>
+
+---
+
 ### 🧭 About Me
 - 💻 Currently focused on **Java, DSA, and Backend Development**
 - 🧠 Learning by building real-world projects, not just tutorials
